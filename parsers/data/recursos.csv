@@ -1,0 +1,178 @@
+siglaRecAbrv,siglaRecExt
+AC,Apelação Cível
+Adm,Administrativo
+Ag,Agravo de Instrumento
+AgRg na ExSusp,Agravo Regimental na Exceção de Suspeição
+AgRg na ExVerd,Agravo Regimental na Exceção da Verdade
+AgRg na MC,Agravo Regimental na Medida Cautelar
+AgRg na NC,Agravo Regimental na Notícia-Crime
+AgRg na Pet,Agravo Regimental na Petição
+AgRg na APn,Agravo Regimental na Ação Penal
+AgRg na AR,Agravo Regimental na Ação Rescisória
+AgRg na Rcl,Agravo Regimental na Reclamação
+AgRg na Rp,Agravo Regimental na Representação
+AgRg na RvCr,Agravo Regimental na Revisão Criminal
+AgRg na SS,Agravo Regimental na Suspensão de Segurança
+AgRg no Ag,Agravo Regimental no Agravo de Instrumento
+AgRg no Ag no RE,Agravo Regimental no Agravo de Instrumento no Recurso Extraordinário
+AgRg no Ag no RE na MC,Agravo Regimental no Agravo no Recurso Extraordinário na Medida Cautelar
+AgRg no AgRg na MC,Agravo Regimental no Agravo Regimental na Medida Cautelar
+AgRg no AgRg na Rcl,Agravo Regimental no Agravo Regimental na Reclamação
+AgRg no AgRg no Ag,Agravo Regimental no Agravo Regimental no Agravo de Instrumento
+AgRg no AgRg no REsp,Agravo Regimental no Agravo Regimental no Recurso Especial
+AgRg no AgRg nos EDcl no REsp,Agravo Regimental no Agravo Regimental nos Embargos de Declaração no Recurso Especial
+AgRg no CAt,Agravo Regimental no Conflito de Atribuições
+AgRg no CC,Agravo Regimental no Conflito de Competência
+AgRg no HC,Agravo Regimental no Habeas Corpus
+AgRg no Inq,Agravo Regimental no Inquérito
+AgRg no IExec no MS,Agravo Regimental no Incidente de Execução no Mandado de Segurança
+AgRg no MI,Agravo Regimental no Mandado de Injunção
+AgRg no MS,Agravo Regimental no Mandado de Segurança
+AgRg no Prc,Agravo Regimental no Precatório
+AgRg no RE no Ag,Agravo Regimental no Recurso Extraordinário no Agravo de Instrumento
+AgRg no RE no HC,Agravo Regimental no Recurso Extraordinário no Habeas Corpus
+AgRg no RE no MS,Agravo Regimental no Recurso Extraordinário no Mandado de Segurança
+AgRg no RE no REsp,Agravo Regimental no Recurso Extraordinário no Recurso Especial
+AgRg no RE no RMS,Agravo Regimental no Recurso Extraordinário no Recurso em Mandado de Segurança
+AgRg no REsp,Agravo Regimental no Recurso Especial
+AgRg no RHC,Agravo Regimental no Recurso em Habeas Corpus
+AgRg no RMS,Agravo Regimental no Recurso em Mandado de Segurança
+AgRg nos EDcl na MC,Agravo Regimental nos Embargos de Declaração na Medida Cautelar
+AgRg nos EDcl na Rcl,Agravo Regimental nos Embargos de Declaração na Reclamação
+AgRg nos EDcl no Ag,Agravo Regimental nos Embargos Declaratórios no Agravo de Instrumento
+AgRg nos EDcl no AgRg no Ag,Agravo Regimental nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento
+AgRg nos EDcl no CC,Agravo Regimental nos Embargos de Declaração no Conflito de Competência
+AgRg nos EDcl no HC,Agravo Regimental nos Embargos de Declaração no Habeas Corpus
+AgRg nos EDcl no REsp,Agravo Regimental nos Embargos de Declaração no Recurso Especial
+AgRg nos EDcl no RHC,Agravo Regimental nos Embargos de Declaração no Recurso em Habeas Corpus
+AgRg nos EDcl nos EAgRg no Ag,Agravo Regimental nos Embargos de Declaração nos Embargos de Divergência no Agravo Regimental no Agravo de Instrumento
+AgRg nos EDcl nos EDcl no REsp,Agravo Regimental nos Embargos de Declaração nos Embargos de Declaração no Recurso Especial
+AgRg nos EREsp,Agravo Regimental nos Embargos de Divergência em Recurso Especial
+AgRg nos ERMS,Agravo Regimental nos Embargos Infringentes no Recurso em Mandado de Segurança
+AI no RMS,Argüição de Inconstitucionalidade no Recurso em Mandado de Segurança
+Anatel,Agência Nacional de Telecomunicações
+Anel,Agência Nacional de Energia Elétrica
+APn,Ação Penal
+AR,Ação Rescisória
+CAt,Conflito de Atribuições
+CC,Código Civil
+CC,Conflito de Competência
+CCm,Código Comercial
+CNE,Conselho Nacional de Educação
+Com,Comunicação
+CP,Código Penal
+CPC,Código de Processo Civil
+CPDC,Código de Proteção e Defesa do Consumidor
+CPP,Código de Processo Penal
+Ct,Constitucional
+CTB,Código de Trânsito Brasileiro
+CTN,Código Tributário Nacional
+Cv,Civil
+D,Decreto
+DL,Decreto-Lei
+DNAEE,Departamento Nacional de Águas e Energia Elétrica
+E,Ementário da Jurisprudência do Superior Tribunal de Justiça
+EAC,Embargos Infringentes em Apelação Cível
+EAR,Embargos Infringentes em Ação Rescisória
+EC,Emenda Constitucional
+ECA,Estatuto da Criança e do Adolescente
+EDcl na AI no RMS,Embargos de Declaração na Argüição de Inconstitucionalidade no Recurso em Mandado de Segurança
+EDcl na APn,Embargos de Declaração na Ação Penal
+EDcl na AR,Embargos de Declaração na Ação Rescisória
+EDcl na IF,Embargos de Declaração na Intervenção Federal
+EDcl na MC,Embargos de Declaração na Medida Cautelar
+EDcl na Pet,Embargos de Declaração na Petição
+EDcl na Rcl,Embargos de Declaração na Reclamação
+EDcl na Rp,Embargos de Declaração na Representação
+EDcl no Ag,Embargos de Declaração no Agravo de Instrumento
+EDcl no AgRg na APn,Embargos de Declaração no Agravo Regimental na Ação Penal
+EDcl no AgRg na AR,Embargos de Declaração no Agravo Regimental na Ação Rescisória
+EDcl no AgRg na Pet,Embargos de Declaração no Agravo Regimental na Petição
+EDcl no AgRg na Rcl,Embargos de Declaração no Agravo Regimental na Reclamação
+EDcl no AgRg na SS,Embargos de Declaração no Agravo Regimental na Suspensão de Segurança
+EDcl no AgRg no Ag,Embargos de Declaração no Agravo Regimental no Agravo de Instrumento
+EDcl no AgRg no AgRg na MC,Embargos de Declaração no Agravo Regimental no Agravo Regimental na Medida Cautelar
+EDcl no AgRg no AgRg no Ag,Embargos de Declaração no Agravo Regimental no Agravo Regimental no Agravo de Instrumento
+EDcl no AgRg no RE no Ag,Embargos de Declaração no Agravo Regimental no Recurso Extraordinário no Agravo de Instrumento
+EDcl no AgRg nos EDcl nos EDcl no AgRg no Ag,Embargos de Declaração no Agravo Regimental nos Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento
+EDcl no AgRg no REsp,Embargos de Declaração no Agravo Regimental no Recurso Especial
+EDcl no AgRg no AgRg nos EDcl nos EDcl no AgRg nos EREsp,Embargos de Declaração no Agravo Regimental no Agravo Regimental nos Embargos de Declaração nos Embargos de Declaração no Agravo Regimental nos Embargos de Divergência no Recurso Especial
+EDcl no AgRg nos EDcl nos EDcl no AgRg no Ag,Embargos de Declaração no Agravo Regimental nos Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento
+EDcl no AgRg nos EDcl nos EDcl nos EDcl no AgRg no Ag,Embargos de Declaração no Agravo Regimental nos Embargos de Declaração nos Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento
+EDcl no AgRg no RE no Ag,Embargos de Declaração no Agravo Regimental no Recurso Extraordinário no Agravo de Instrumento
+EDcl no AgRg nos EREsp,Embargos de Declaração no Agravo Regimental nos Embargos de Divergência no Recurso Especial
+EDcl no CAt,Embargos de Declaração no Conflito de Atribuições
+EDcl no CC,Embargos de Declaração no Conflito de Competência
+EDcl no HC,Embargos de Declaração no Habeas Corpus
+EDcl no MS,Embargos de Declaração no Mandado de Segurança
+EDcl no REsp,Embargos de Declaração no Recurso Especial
+EDcl no RHC,Embargos de Declaração no Recurso em Habeas Corpus
+EDcl no RMS,Embargos de Declaração no Recurso em Mandado de Segurança
+EDcl nos EDcl na IF,Embargos de Declaração nos Embargos de Declaração na Intervenção Federal
+ED<boltAction type="file" filePath="parsers/data/recursos.csv">cl nos EDcl no Ag,Embargos de Declaração nos Embargos de Declaração no Agravo de Instrumento
+EDcl nos EDcl no AgRg na Pet,Embargos de Declaração nos Embargos de Declaração no Agravo Regimental na Petição
+EDcl nos EDcl no AgRg no Ag,Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento
+EDcl nos EDcl no AgRg nos EREsp,Embargos de Declaração nos Embargos de Declaração no Agravo Regimental nos Embargos de Divergência em Recurso Especial
+EDcl nos EDcl no AgRg no REsp,Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Recurso Especial
+EDcl nos EDcl no REsp,Embargos de Declaração nos Embargos de Declaração no Recurso Especial
+EDcl nos EDcl no RMS,Embargos de Declaração nos Embargos de Declaração no Recurso em Mandado de Segurança
+EDcl nos EDcl nos EDcl no REsp,Embargos de Declaração nos Embargos de Declaração nos Embargos de Declaração no Recurso Especial
+EDcl nos EDcl nos EDcl nos EDcl no RMS,Embargos de Declaração nos Embargos de Declaração nos Embargos de Declaração nos Embargos de Declaração no Recurso em Mandado de Segurança
+EDcl nos EREsp,Embargos de Declaração nos Embargos de Divergência em Recurso Especial
+EJSTJ,Ementário de Jurisprudência do Superior Tribunal de Justiça
+El,Eleitoral
+EREsp,Embargos de Divergência em Recurso Especial
+ExImp,Exceção de Impedimento
+ExSusp,Exceção de Suspeição
+ExVerd,Exceção da Verdade
+HC,Habeas Corpus
+HD,Habeas Data
+IExec na APn,Incidente de Execução na Ação Penal
+IF,Intervenção Federal
+IJ,Interpelação Judicial
+Inq,Inquérito
+IPVA,Imposto sobre a Propriedade de Veículos Automotores
+IUJ no AgRg no Ag,Incidente de Uniformização de Jurisprudência no Agravo Regimental no Agravo de Instrumento
+IUJ no REsp,Incidente de Uniformização de Jurisprudência no Recurso Especial
+IUJ no RMS,Incidente de Uniformização de Jurisprudência no Recurso em Mandado de Segurança
+LC,Lei Complementar
+LCP,Lei das Contravenções Penais
+Loman,Lei Orgânica da Magistratura
+LONMP,Lei Orgânica Nacional do Ministério Público
+MC,Medida Cautelar
+MC,Ministério das Comunicações
+MI,Mandado de Injunção
+MS,Mandado de Segurança
+NC,Notícia-Crime
+PA,Processo Administrativo
+Pet,Petição
+PExt em HC,Pedido de Extensão em Habeas Corpus
+PExt no REsp,Pedido de Extensão no Recurso Especial
+PExt no RHC,Pedido de Extensão no Recurso em Habeas Corpus
+Pn,Penal
+Prc,Precatório
+PrCv,Processual Civil
+PrPn,Processual Penal
+Pv,Previdenciário
+QO na APn,Questão de Ordem na Ação Penal
+QO no Ag,Questão de Ordem no Agravo de Instrumento
+QO no REsp,Questão de Ordem no Recurso Especial
+QO no RMS,Questão de Ordem no Recurso em Mandado de Segurança
+R,Revista do Superior Tribunal de Justiça
+Rcl,Reclamação
+RE,Petição de Recurso Extraordinário
+REsp,Recurso Especial
+RHC,Recurso em Habeas Corpus
+RHD,Petição de Recurso Ordinário em Habeas Data
+RMI,Petição de Recurso Ordinário em Mandado de Injunção
+RMS,Recurso em Mandado de Segurança
+RO,Recurso Ordinário
+Rp,Representação
+RSTJ,Revista do Superior Tribunal de Justiça
+RvCr,Revisão Criminal
+S,Súmula
+SAF,Secretaria de Administração Federal
+SF,Senado Federal
+SS,Suspensão de Segurança
+Tr,Trabalho
+Trbt,Tributário
